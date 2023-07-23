@@ -1,0 +1,33 @@
+# Import the datetime module to get current time
+import datetime 
+
+# Print a greeting with hello 
+print('Hello World!')
+
+# Print current time
+now = datetime.datetime.now()
+print('Current date and time:')
+print
+
+The key points:
+
+import datetime imports the datetime module to work with dates and times
+print('Hello World!') prints the hello world string
+now = datetime.datetime.now() gets the current datetime
+now.strftime() formats the datetime in a readable string
+print(now.strftime()) prints the formatted date and time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
