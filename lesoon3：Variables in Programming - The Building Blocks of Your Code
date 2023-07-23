@@ -1,0 +1,37 @@
+Greetings students! 👋 Welcome to today's class on variables in Python.
+I know talking about variables sounds boring, but trust me, grasping variables is key to unlocking the power of programming! 🗝
+
+So what exactly are variables? In simple terms, variables are containers we use to store data in our programs. 📦
+You can think of them as boxes that hold values. We can put different types of data like numbers, text, lists etc. into variables.
+
+For example, let's create a variable called count and assign the number 10 to it:
+python：
+count = 10
+See, now the count variable contains the value 10.
+Later when we refer to count, it's like retrieving the 10 stored in it.
+So whenever we need to use this value, we can just use the variable count instead of typing 10 over and over! Pretty neat right? 😎
+
+When we create a variable, it's like sticking a label on a storage box. Variable names need to follow some rules:
+Names can have letters, numbers, underscores 👌
+Must start with letter or underscore, not a number ❌
+Can't use Python's reserved keywords 😅
+
+Some valid variable name examples:
+my_var
+var1
+name
+We can also change what's stored in a variable by assigning it a new value:
+count = 20 # value changed to 20
+Variables allow our programs to be dynamic and adaptable. As a professor, I always emphasize how powerful variables are for building all kinds of amazing programs! 💪
+In later lectures, we'll explore how variables enable looping, conditional logic, data structure manipulation and many more programming tasks. 
+Truly grasping variables unlocks the real superpowers of coding! 🦸
+
+Variables are also important for collaborating with other developers. 
+We can use variables to store data that needs to be shared across different parts and files in a program.
+
+So in summary, variables are containers for storing data in programs.
+They are labelled with unique names. Their values can be changed as needed. 
+Mastering variables is essential knowledge for any new programmer!
+
+I hope this fun intro helps explain what variables are and why they matter. 
+Let me know if you have any other questions! Now go unleash the power of variables in your own code! 🎉
