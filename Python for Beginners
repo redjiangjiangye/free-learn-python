@@ -1,11 +1,11 @@
-This is a minimalist tutorial for Python beginners that covers some of the basic concepts of programming with Python. The tutorial will cover the following topics:
+Welcome to this minimalist introduction to Python programming!
+This course is designed for absolute beginners who have no prior experience with programming or Python. 
+By the end of this course, you will have a basic understanding of Python syntax, data types, control structures, functions, and file operations.
 
-Installing Python
-Basic syntax of Python
-Operators and expressions
-Control flow statements
-Functions and modules
-File operations
-Exception handling
-.......
-TIP:this is free!
+Course Requirements
+To take this course, you will need a computer with an internet connection and a web browser. 
+You will also need to install Python on your computer. We will provide instructions on how to install Python in Module 1.
+
+Conclusion
+We hope this course provides you with a solid foundation in Python programming.
+If you have any questions or feedback about this course, please don't hesitate to contact us. Good luck and happy coding!
